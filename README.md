@@ -12,3 +12,5 @@ https://taeyjeong.github.io/run-buddy-2/
 
 ## Contribution
 Made with ❤️ by Tae
+
+# Run Buddy Inc..
