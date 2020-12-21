@@ -1,16 +1,16 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
-## Built with
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
-https://taeyjeong.github.io/run-buddy-2/
+https://lernantino.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Tae
+Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
